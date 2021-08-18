@@ -1,0 +1,77 @@
+.heading{
+    text-align: center;
+    font-family: fantasy;
+    color: crimson;
+}
+
+.container1{
+    width: 600px;
+    height: 200px;
+    background-color: aqua;
+    margin-left: 90px;
+}
+
+#Octo123{
+    width: 600px;
+    height: 200px;
+    background-color: crimson;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-evenly;
+}
+
+#Octo123 img{
+    width: 200px;
+    height: 200px;
+}
+
+.container2{
+    width: 600px;
+    height: 200px;
+    background-color: black;
+    margin-top: 20px;
+    margin-left: 90px;
+}
+
+#Octo45{
+    margin: 0 auto;
+    width: 600px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+#Octo45 img:hover{
+    box-shadow: 0px 0px 10px ghostwhite;
+}
+
+#Octo123 img:hover{
+    box-shadow: 0px 0px 10px ghostwhite;
+}
+
+
+#Octo45 img{
+    width: 200px;
+    height: 200px;
+}
+
+
+.container3{
+    width: 600px;
+    height: 200px;
+    background-color: ghostwhite;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+#Octo678{
+    margin: 0 auto;
+    width: 600px;
+    height: 200px;
+    display: flex;
+}
+
+#Octo678 img:hover{
+    box-shadow: 0px 0px 10px black;
+}
